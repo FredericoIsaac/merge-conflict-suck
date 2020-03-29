@@ -1,1 +1,1 @@
-var truth = "Hello Flat Earth";
+var truth = "Hello bullocks Earth";
